@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm shivpoojan</h1>
 <h3 align="center">A passionate Linux geek from India who is still learning about Programming and Devops</h3>
-<img align="right"  width="400" src="https://camo.githubusercontent.com/593da139520c420faccfa4246b6c2122f63ef49f4ba34f69448d4e3ce023ea42/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4a49583974326a305a544e39532f67697068792e6769663f6369643d65636630356534376a3931396c6e65676f33347a386b6c6b646c6735716a7533326a6e69316979337569783138386c302665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67">
-
+<img align="right"  width="400" src= https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY24zdm9kZXY4MDNodzlpM2N4NDMwZTVhaWg2MTQybDd4b3lnYTR0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivyadav12&label=Profile%20views&color=0e75b6&style=flat" alt="shivyadav12" /> </p>
