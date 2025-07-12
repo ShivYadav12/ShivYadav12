@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivpoojan7027@gmail.com**
 
-- ⚡ Fun fact **I think i am funny **
+- ⚡ Fun fact **I treat pipelines like karma—what you push in, eventually comes back. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
