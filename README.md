@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops|Linux|**
 
-- 💬 Ask me about **Devops|Linux|C++**
+- 💬 Ask me about **Devops|Linux|python**
 
 - 📫 How to reach me **shivpoojan7027@gmail.com**
 
